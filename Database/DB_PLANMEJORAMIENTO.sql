@@ -1,8 +1,6 @@
-CREATE DATABASE  IF NOT EXISTS `planmejoramiento` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
-USE `planmejoramiento`;
 -- MySQL dump 10.13  Distrib 8.0.38, for Win64 (x86_64)
 --
--- Host: localhost    Database: planmejoramiento
+-- Host: localhost    Database: employee
 -- ------------------------------------------------------
 -- Server version	8.0.39
 
@@ -26,10 +24,10 @@ DROP TABLE IF EXISTS `employee`;
 /*!50503 SET character_set_client = utf8mb4 */;
 CREATE TABLE `employee` (
   `Id_Employee` int NOT NULL AUTO_INCREMENT,
-  `Nombre` varchar(100) NOT NULL,
-  `Apellido` varchar(100) NOT NULL,
-  `Cargo` varchar(50) DEFAULT NULL,
-  `FechaIngreso` datetime DEFAULT CURRENT_TIMESTAMP,
+  `Nombre_Employee` varchar(100) DEFAULT NULL,
+  `Apellido_Employee` varchar(100) DEFAULT NULL,
+  `Cargo_Employee` varchar(50) DEFAULT NULL,
+  `Fecha_Ingreso` datetime DEFAULT NULL,
   PRIMARY KEY (`Id_Employee`)
 ) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
@@ -40,7 +38,7 @@ CREATE TABLE `employee` (
 
 LOCK TABLES `employee` WRITE;
 /*!40000 ALTER TABLE `employee` DISABLE KEYS */;
-INSERT INTO `employee` VALUES (1,'fffsfsdfsdf','fnfghgdfgdf','fgdsfdsfsd','2021-01-01 00:00:00'),(2,'fffsfsdfsdf','fnfghgdfgdf','fgdsfdsfsd','2021-01-01 00:00:00');
+INSERT INTO `employee` VALUES (1,'gabriel','diaz','aprendiz','2023-10-02 00:00:00'),(2,'nestor','morales','aprendiz','2023-10-10 00:00:00');
 /*!40000 ALTER TABLE `employee` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -53,4 +51,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2024-11-04 20:38:08
+-- Dump completed on 2024-11-07 19:08:12
