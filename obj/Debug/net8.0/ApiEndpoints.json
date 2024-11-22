@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "PlanMejoramiento.Controllers.EmployeeController",
+    "Method": "Create",
+    "RelativePath": "Api/Employee/Create Employee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entity",
+        "Type": "PlanMejoramiento.Models.EmployeeModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PlanMejoramiento.Controllers.EmployeeController",
+    "Method": "GetEmployee",
+    "RelativePath": "Api/Employee/lista Employee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[PlanMejoramiento.Models.EmployeeModel, PlanMejoramiento, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
