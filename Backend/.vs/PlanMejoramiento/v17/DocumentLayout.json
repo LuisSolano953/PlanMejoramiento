@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usser\\Documents\\PlanMejoramiento\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60C1DDA6-91B6-4301-917C-1B52B80A3C76}|PlanMejoramiento\\PlanMejoramiento.csproj|c:\\users\\usser\\documents\\planmejoramiento\\backend\\planmejoramiento\\controllers\\employee.controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C1DDA6-91B6-4301-917C-1B52B80A3C76}|PlanMejoramiento\\PlanMejoramiento.csproj|solutionrelative:planmejoramiento\\controllers\\employee.controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C1DDA6-91B6-4301-917C-1B52B80A3C76}|PlanMejoramiento\\PlanMejoramiento.csproj|c:\\users\\usser\\documents\\planmejoramiento\\backend\\planmejoramiento\\services\\employee.service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C1DDA6-91B6-4301-917C-1B52B80A3C76}|PlanMejoramiento\\PlanMejoramiento.csproj|solutionrelative:planmejoramiento\\services\\employee.service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C1DDA6-91B6-4301-917C-1B52B80A3C76}|PlanMejoramiento\\PlanMejoramiento.csproj|c:\\users\\usser\\documents\\planmejoramiento\\backend\\planmejoramiento\\functions\\general.function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C1DDA6-91B6-4301-917C-1B52B80A3C76}|PlanMejoramiento\\PlanMejoramiento.csproj|solutionrelative:planmejoramiento\\functions\\general.function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C1DDA6-91B6-4301-917C-1B52B80A3C76}|PlanMejoramiento\\PlanMejoramiento.csproj|c:\\users\\usser\\documents\\planmejoramiento\\backend\\planmejoramiento\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60C1DDA6-91B6-4301-917C-1B52B80A3C76}|PlanMejoramiento\\PlanMejoramiento.csproj|solutionrelative:planmejoramiento\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C1DDA6-91B6-4301-917C-1B52B80A3C76}|PlanMejoramiento\\PlanMejoramiento.csproj|c:\\users\\usser\\documents\\planmejoramiento\\backend\\planmejoramiento\\models\\employee.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C1DDA6-91B6-4301-917C-1B52B80A3C76}|PlanMejoramiento\\PlanMejoramiento.csproj|solutionrelative:planmejoramiento\\models\\employee.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C1DDA6-91B6-4301-917C-1B52B80A3C76}|PlanMejoramiento\\PlanMejoramiento.csproj|c:\\users\\usser\\documents\\planmejoramiento\\backend\\planmejoramiento\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C1DDA6-91B6-4301-917C-1B52B80A3C76}|PlanMejoramiento\\PlanMejoramiento.csproj|solutionrelative:planmejoramiento\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C1DDA6-91B6-4301-917C-1B52B80A3C76}|PlanMejoramiento\\PlanMejoramiento.csproj|c:\\users\\usser\\documents\\planmejoramiento\\backend\\planmejoramiento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C1DDA6-91B6-4301-917C-1B52B80A3C76}|PlanMejoramiento\\PlanMejoramiento.csproj|solutionrelative:planmejoramiento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.Service.cs",
+              "DocumentMoniker": "C:\\Users\\usser\\Documents\\PlanMejoramiento\\Backend\\planmejoramiento\\Services\\Employee.Service.cs",
+              "RelativeDocumentMoniker": "planmejoramiento\\Services\\Employee.Service.cs",
+              "ToolTip": "C:\\Users\\usser\\Documents\\PlanMejoramiento\\Backend\\planmejoramiento\\Services\\Employee.Service.cs",
+              "RelativeToolTip": "planmejoramiento\\Services\\Employee.Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T00:08:37.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.Model.cs",
+              "DocumentMoniker": "C:\\Users\\usser\\Documents\\PlanMejoramiento\\Backend\\planmejoramiento\\Models\\Employee.Model.cs",
+              "RelativeDocumentMoniker": "planmejoramiento\\Models\\Employee.Model.cs",
+              "ToolTip": "C:\\Users\\usser\\Documents\\PlanMejoramiento\\Backend\\planmejoramiento\\Models\\Employee.Model.cs",
+              "RelativeToolTip": "planmejoramiento\\Models\\Employee.Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T00:04:37.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\usser\\Documents\\PlanMejoramiento\\Backend\\planmejoramiento\\appsettings.json",
+              "RelativeDocumentMoniker": "planmejoramiento\\appsettings.json",
+              "ToolTip": "C:\\Users\\usser\\Documents\\PlanMejoramiento\\Backend\\planmejoramiento\\appsettings.json",
+              "RelativeToolTip": "planmejoramiento\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T00:38:45.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "General.Function.cs",
+              "DocumentMoniker": "C:\\Users\\usser\\Documents\\PlanMejoramiento\\Backend\\planmejoramiento\\Functions\\General.Function.cs",
+              "RelativeDocumentMoniker": "planmejoramiento\\Functions\\General.Function.cs",
+              "ToolTip": "C:\\Users\\usser\\Documents\\PlanMejoramiento\\Backend\\planmejoramiento\\Functions\\General.Function.cs",
+              "RelativeToolTip": "planmejoramiento\\Functions\\General.Function.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:24:51.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.Controller.cs",
+              "DocumentMoniker": "C:\\Users\\usser\\Documents\\PlanMejoramiento\\Backend\\planmejoramiento\\Controllers\\Employee.Controller.cs",
+              "RelativeDocumentMoniker": "planmejoramiento\\Controllers\\Employee.Controller.cs",
+              "ToolTip": "C:\\Users\\usser\\Documents\\PlanMejoramiento\\Backend\\planmejoramiento\\Controllers\\Employee.Controller.cs",
+              "RelativeToolTip": "planmejoramiento\\Controllers\\Employee.Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:24:02.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\usser\\Documents\\PlanMejoramiento\\Backend\\planmejoramiento\\Program.cs",
+              "RelativeDocumentMoniker": "planmejoramiento\\Program.cs",
+              "ToolTip": "C:\\Users\\usser\\Documents\\PlanMejoramiento\\Backend\\planmejoramiento\\Program.cs",
+              "RelativeToolTip": "planmejoramiento\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:22:27.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\usser\\Documents\\PlanMejoramiento\\Backend\\planmejoramiento\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "planmejoramiento\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\usser\\Documents\\PlanMejoramiento\\Backend\\planmejoramiento\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "planmejoramiento\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:58:20.98Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
